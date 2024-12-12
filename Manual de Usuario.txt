@@ -1,0 +1,78 @@
+Manual de Usuario: Guía para el Uso del Sitio Web de SMART TECH
+Este manual está diseñado para guiar a los usuarios en el uso de las principales funcionalidades del sitio web de SMART TECH, una tienda en línea dedicada a ofrecer productos tecnológicos de alta calidad y servicios personalizados. Aquí encontrarás instrucciones detalladas para registrar una cuenta, iniciar sesión, navegar por el catálogo de productos, añadir artículos al carrito, y realizar una compra.
+ 
+Índice de Contenidos
+1.	Registro de Usuario
+2.	Iniciar Sesión
+3.	Navegar por el Catálogo
+4.	Añadir Productos al Carrito
+5.	Ver el Carrito y Realizar la Compra
+6.	Contactar con Atención al Cliente
+ 
+1. Registro de Usuario
+Para utilizar todas las funcionalidades del sitio web (como realizar compras o gestionar tu cuenta), es necesario crear una cuenta de usuario.
+Pasos para registrarse:
+1.	Accede al sitio web de SMART TECH en tu navegador.
+2.	En la parte superior derecha de la página, haz clic en “Iniciar Sesión”.
+3.	Una vez en la página de inicio de sesión, selecciona la opción “Registrarse”.
+4.	Rellena el formulario con tus datos:
+o	Correo electrónico: Escribe tu dirección de correo electrónico válida.
+o	Contraseña: Crea una contraseña segura para tu cuenta.
+o	Confirmar Contraseña: Vuelve a escribir la misma contraseña para confirmar.
+5.	Haz clic en “Registrarse”. Si la operación es exitosa, recibirás una confirmación en pantalla.
+6.	¡Listo! Ahora puedes iniciar sesión con tu correo y contraseña.
+ 
+
+2. Iniciar Sesión
+Una vez que te hayas registrado, puedes iniciar sesión en tu cuenta para acceder a más funcionalidades, como el carrito de compras y el historial de pedidos.
+Pasos para iniciar sesión:
+1.	Haz clic en “Iniciar Sesión” en la parte superior derecha de la página.
+2.	Introduce tu correo electrónico y contraseña.
+3.	Haz clic en “Iniciar Sesión”.
+4.	Si tus datos son correctos, serás redirigido a la página principal de SMART TECH y podrás acceder a todas las funciones disponibles.
+ 
+3. Navegar por el Catálogo
+El catálogo de productos te permite explorar las distintas categorías de gadgets y dispositivos tecnológicos.
+Pasos para navegar por el catálogo:
+1.	En el menú principal, haz clic en “Catálogo”.
+2.	Aquí verás una lista de productos organizados por categorías como Smartphones, Computadoras, Accesorios, etc.
+3.	Puedes utilizar el campo de búsqueda para encontrar productos específicos o filtrar los resultados según tus preferencias.
+4.	Cada producto incluye una breve descripción, el precio y una opción para añadirlo al carrito.
+ 
+4. Añadir Productos al Carrito
+El carrito de compras te permite agregar productos que deseas comprar y proceder al pago cuando hayas terminado de elegir tus artículos.
+Pasos para añadir productos al carrito:
+1.	En el Catálogo, haz clic en el producto que deseas comprar.
+2.	En la página de detalles del producto, selecciona la cantidad deseada (si es aplicable).
+3.	Haz clic en el botón “Añadir al Carrito”.
+4.	Si deseas seguir comprando, haz clic en “Seguir Comprando”. Si deseas revisar tu carrito, haz clic en “Ver Carrito”.
+ 
+5. Ver el Carrito y Realizar la Compra
+Una vez que hayas añadido todos los productos que deseas comprar, puedes proceder con el pago.
+Pasos para ver el carrito:
+1.	Haz clic en el ícono del carrito de compras en la parte superior derecha de la página para ver los productos que has agregado.
+2.	Aquí podrás ver el listado de artículos, la cantidad y el precio total.
+Pasos para realizar la compra:
+1.	Si no has iniciado sesión, el sistema te pedirá que lo hagas. Si no tienes una cuenta, podrás registrarte.
+2.	Una vez que hayas iniciado sesión, haz clic en “Proceder al Pago”.
+3.	El sistema te pedirá que ingreses la dirección de envío y detalles de pago.
+4.	Revisa todos los detalles y haz clic en “Finalizar Compra”.
+5.	Si la compra fue exitosa, recibirás un mensaje de confirmación y un resumen de tu pedido.
+ 
+6. Contactar con Atención al Cliente
+Si tienes alguna pregunta o necesitas asistencia, puedes ponerte en contacto con nuestro equipo de atención al cliente.
+Pasos para contactar:
+1.	En la parte inferior de la página, haz clic en “Contactar”.
+2.	Serás redirigido a un formulario de contacto donde podrás ingresar tu nombre, correo electrónico y mensaje.
+3.	Completa el formulario y haz clic en “Enviar”.
+4.	Nuestro equipo de atención al cliente responderá lo antes posible a tu consulta.
+ 
+Consejos Adicionales
+•	Recibe Notificaciones: Asegúrate de activar las notificaciones para estar al tanto de ofertas, descuentos y nuevos productos.
+•	Seguridad: Siempre utiliza contraseñas seguras y no las compartas con nadie. Si sospechas que alguien ha accedido a tu cuenta, cambia tu contraseña inmediatamente.
+•	Política de Devoluciones: Si por alguna razón no estás satisfecho con tu compra, consulta nuestra política de devoluciones en la sección de “Términos y Condiciones” en el pie de página.
+ 
+
+Conclusión
+¡Gracias por elegir SMART TECH! Con este manual, esperamos que puedas disfrutar de una experiencia de compra fácil y segura. Si tienes alguna pregunta o necesitas ayuda adicional, no dudes en ponerte en contacto con nosotros.
+
